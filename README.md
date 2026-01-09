@@ -1,23 +1,25 @@
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" />
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420" />
+  <img src="https://raw.githubusercontent.com/Shaazgai/Shaazgai/main/assets/lofi-coding.png" width="720" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" />
+  <img src="https://raw.githubusercontent.com/Shaazgai/Shaazgai/main/assets/lofi-coding.png" width="720" />
 </p>
 
 <p align="center">
-  <img src="GIF_LINK_HERE" width="480" />
+  <img src="https://komarev.com/ghpvc/?username=Shaazgai&color=blue" />
+</p>
+<p align="center">
+  <i>Building backend systems late at night ☕ Django • Python • APIs</i>
 </p>
 
+<p align="center">
+  <i>Building backend systems late at night ☕ Django • Python • APIs</i>
+</p>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shaazgai&color=blue)
 
-👋 Hi, my name is **Bolormaa Batzorig**
+👋 Hi, my name is **Batzorig Bolormaa**
 
 ## ⚡ Rapid Fire
 
