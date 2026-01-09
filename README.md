@@ -25,8 +25,6 @@
 - 🎯 Current focus:  
   **Backend Developer (Django / Python)**
 
----
-
 ## 🛠 Skills
 
 ## Tech Stack
