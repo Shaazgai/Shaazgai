@@ -11,7 +11,7 @@
 👋 Hi, my name is Batzorig Bolormaa
 </p>
 
-## ⚡ Rapid Fire
+## Rapid Fire
 
 - 💼 I'm currently working on:  
   🎓 **University internal management systems**
