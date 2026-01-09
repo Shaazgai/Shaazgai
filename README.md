@@ -60,14 +60,10 @@
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000?style=for-the-badge)
 ![Mantine UI](https://img.shields.io/badge/Mantine_UI-000?style=for-the-badge)
 ![Reactstrap](https://img.shields.io/badge/Reactstrap-61DAFB?style=for-the-badge)
-![Zustand](https://img.shields.io/badge/Zustand-000?style=for-the-badge)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-000?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![NFT](https://img.shields.io/badge/NFT-000?style=for-the-badge)
-![Wallet Integration](https://img.shields.io/badge/Wallet-000?style=for-the-badge)
-![Blockchain](https://img.shields.io/badge/Blockchain-000?style=for-the-badge)
+
+
