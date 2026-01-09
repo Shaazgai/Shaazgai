@@ -29,25 +29,14 @@
 
 ## 🛠 Skills
 
-### 💻 Tech Stack
+## Tech Stack
 
-**Frontend (Previous Experience)**
-- Next.js
-- React.js
-- Tailwind CSS
-- Shadcn UI
-- Mantine UI
-- Reactstrap
-- Zustand
-- React Query
-- HTML5 / CSS3
+### Frontend (Experience)
+Next.js · React.js · Tailwind CSS · Shadcn UI · Mantine UI · Reactstrap · Zustand · React Query · HTML5/CSS3
 
-**Backend** (learning & practicing)
-- Python
-- Django
-- Django REST Framework
-- Web API
-- PostgreSQL 
+### Backend (Learning & Practicing)
+Python · Django · Django REST Framework · Web API · PostgreSQL
+
 
 **Web3 / Blockchain (Previous Experience)**
 - NFT Marketplace
