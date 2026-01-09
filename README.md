@@ -7,8 +7,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shaazgai&color=blue)
 
-<p align="center">
-👋 Hi, my name is **Batzorig Bolormaa**
+<p align="center" text="32px">
+👋 Hi, my name is **Batzorig Bolormaa
 </p>
 
 ## ⚡ Rapid Fire
