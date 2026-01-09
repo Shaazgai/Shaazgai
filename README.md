@@ -54,6 +54,8 @@
 - Wallet integration
 - Blockchain-based loyalty & reward systems
 
+
+
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white&labelColor=2D2D2D)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282C34)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0C4A6E)](https://tailwindcss.com/)
