@@ -1,13 +1,15 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHI4MXBlc2x0bmFsMXlyNTc0ejdsb3owZ2trZ3htb2plYzc0aGJyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qJzZ4APiDZQuJDY7vh/giphy.gif" width="100" height="50" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZzc2JzY3d6bXpzODJiN2huNG12OTd1cHl6dmtrNzdrd2NsZWp3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gR450uSGV0cICgirT/giphy.gif" width="1080"  />
 </p>
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmc4YnJ4eGt4d29idTR2MXEyZm0xdDB0NWVheGZ5OWxzbnBoc2RrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MVG619LTIVCIfGmIW8/giphy.gif" width="720" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpqbzk5d2Uwb3ZqczU5cDkxMHQ4NGRnM3loMW53NXUzMGx3MGFmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="1080"  />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shaazgai&color=blue)
 
+<p align="center">
 👋 Hi, my name is **Batzorig Bolormaa**
+</p>
 
 ## ⚡ Rapid Fire
 
