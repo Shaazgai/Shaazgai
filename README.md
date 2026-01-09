@@ -1,21 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shaazgai/Shaazgai/main/assets/lofi-coding.png" width="720" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHI4MXBlc2x0bmFsMXlyNTc0ejdsb3owZ2trZ3htb2plYzc0aGJyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qJzZ4APiDZQuJDY7vh/giphy.gif" width="720" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shaazgai/Shaazgai/main/assets/lofi-coding.png" width="720" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmc4YnJ4eGt4d29idTR2MXEyZm0xdDB0NWVheGZ5OWxzbnBoc2RrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MVG619LTIVCIfGmIW8/giphy.gif" width="720" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shaazgai&color=blue" />
-</p>
-<p align="center">
-  <i>Building backend systems late at night ☕ Django • Python • APIs</i>
-</p>
-
-<p align="center">
-  <i>Building backend systems late at night ☕ Django • Python • APIs</i>
-</p>
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shaazgai&color=blue)
 
