@@ -38,10 +38,8 @@ Next.js · React.js · Tailwind CSS · Shadcn UI · Mantine UI · Reactstrap · 
 Python · Django · Django REST Framework · Web API · PostgreSQL
 
 
-**Web3 / Blockchain (Previous Experience)**
-- NFT Marketplace
-- Wallet integration
-- Blockchain-based loyalty & reward systems
+###Web3 / Blockchain (Previous Experience)
+NFT Marketplace · Wallet integration · Blockchain-based loyalty & reward systems
 
 
 
