@@ -30,7 +30,7 @@
 ## Tech Stack
 
 ### Frontend (Experience)
-Next.js · React.js · Tailwind CSS · Shadcn UI · Mantine UI · Reactstrap · Zustand · React Query · HTML5/CSS3 · Reactstrap
+Next.js · React.js · Tailwind CSS · Shadcn UI · Mantine UI · Reactstrap · Zustand · React Query · HTML5/CSS3/SCSS · Reactstrap
 
 ### Backend (Learning & Practicing)
 Python · Django · Django REST Framework · Web API · PostgreSQL
